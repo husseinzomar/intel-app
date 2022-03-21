@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691628384242",
+    "firebase_url": "https://intelapp-c29df.firebaseio.com",
+    "project_id": "intelapp-c29df",
+    "storage_bucket": "intelapp-c29df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691628384242:android:de3d893963b2579814156b",
+        "android_client_info": {
+          "package_name": "com.example.intel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691628384242-uirpe6c4u0k4lersci2o8ab6a82ae1mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5JP4D-zOnuePQC6XF7fCmKD4ZcIn8e1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691628384242-uirpe6c4u0k4lersci2o8ab6a82ae1mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
